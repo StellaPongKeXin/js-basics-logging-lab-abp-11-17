@@ -1,4 +1,4 @@
 const driver = 'bob';
-console.log('???');
+console.log('this code was called');
 console.log(driver);
-console.log(driver, 'print this');
+console.log(driver, 'is the driver variable name');
